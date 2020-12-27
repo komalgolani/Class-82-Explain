@@ -1,0 +1,5 @@
+npm install react-navigation-stack
+
+npm install react-native-safe-area-context
+
+IMP Note: Not to add reference code for Myheader file .That bar icon will come from class84 onwards.
